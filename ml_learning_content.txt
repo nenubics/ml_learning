@@ -1,0 +1,2 @@
+Градиентный спуск: что это такое и почему его так любят в ML
+https://blog.skillfactory.ru/gradientnyy-spusk-chto-eto-takoe/
