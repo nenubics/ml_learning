@@ -5,3 +5,5 @@
 XGBoost - [https://xgboost.readthedocs.io/en/latest/ ; https://habr.com/ru/articles/965382/?ysclid=mijatnczm4857275289 ; https://habr.com/ru/articles/799725/?ysclid=mij8q9ts7o726105710 ; https://ru.python-3.com/?p=4566]
 
 Предварительная обработка данных в машинном обучении: инструкция, инструменты, полезные ресурсы для начинающих : https://habr.com/ru/companies/skillfactory/articles/848858/
+
+Datasets & DataLoaders : https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html
