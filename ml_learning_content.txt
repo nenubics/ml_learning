@@ -1,2 +1,5 @@
-Градиентный спуск: что это такое и почему его так любят в ML
-https://blog.skillfactory.ru/gradientnyy-spusk-chto-eto-takoe/
+Градиентный спуск: что это такое и почему его так любят в ML : https://blog.skillfactory.ru/gradientnyy-spusk-chto-eto-takoe/
+
+Линейная регрессия в ML для самых маленьких : https://habr.com/ru/companies/otus/articles/919258/?ysclid=mij7tigwvh682230691
+
+XGBoost - [https://xgboost.readthedocs.io/en/latest/ ; https://habr.com/ru/articles/965382/?ysclid=mijatnczm4857275289 ; https://habr.com/ru/articles/799725/?ysclid=mij8q9ts7o726105710 ; https://ru.python-3.com/?p=4566]
