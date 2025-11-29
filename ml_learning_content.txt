@@ -7,3 +7,5 @@ XGBoost - [https://xgboost.readthedocs.io/en/latest/ ; https://habr.com/ru/artic
 Предварительная обработка данных в машинном обучении: инструкция, инструменты, полезные ресурсы для начинающих : https://habr.com/ru/companies/skillfactory/articles/848858/
 
 Datasets & DataLoaders : https://docs.pytorch.org/tutorials/beginner/basics/data_tutorial.html
+
+Градиентный бустинг для новичков : https://habr.com/ru/articles/938650/
