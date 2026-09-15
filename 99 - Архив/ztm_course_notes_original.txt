@@ -1,0 +1,356 @@
+Выполнено; 
+
+Есть доп файлы
+
+ЕСЛИ ВИДЕО НЕ ПЕРЕВОДИТСЯ С АНГЛ НА РУС, ПО СТАВЬТЕ ПЕРЕВОД С НЕМЕЦКОГО НА РУС
+
+https://www.youtube.com/watch?v=r67SfaiYaDI
+
+полезная ссылка
+
+датафреймы: https://archive.ics.uci.edu/ и на kaggle тоже есть датасеты
+
+https://t.me/devsp
+
+Урок 1 Introduction  
+1. 1 course Outline: https://youtu.be/vqnv3AtkthA
+2. 4 Your First Day: https://youtu.be/2YV3AjJDUbo
+
+https://teachablemachine.withgoogle.com/
+
+Урок 2 Machine Learning 101
+1. What is Machine Learning: https://youtu.be/1J_XlIkli8Y
+2. AIMachine LearningData Science: https://youtu.be/gfFT1LOokns
+3. Exercise Machine Learning Playground: https://youtu.be/qsefcOY3rVQ
+4. How Did We Get Here: https://youtu.be/YxzcsfzFBj8
+5. Exercise YouTube Recommendation engine: https://youtu.be/DY3RwxU7Ws8
+6. Types of Machine Learning: https://youtu.be/9E12weTUQBE
+7. нету
+8. What Is Machine Learning Round 2: https://youtu.be/MIQVnisqLOs
+9. Section Review: https://youtu.be/BCCwVHxsb34
+
+Урок 3 machine Learning and Data Science Framework
+1. Section Overview: https://youtu.be/inmwx_vaGmY
+2. Introducing Our Framework: https://youtu.be/BT-6jzsZnrA
+3. 6 Step Machine Learning Framework: https://youtu.be/LZxYzf1AMOg
+4. Types of Machine Learning Problems: https://youtu.be/JCnj-wE1vI0
+5. Types of Data: https://youtu.be/dRDHzB6LDYY
+6. Types of Features: https://youtu.be/X4Gd54i_M2Q
+7. Features In Data: https://youtu.be/q8E3H7dFiwQ
+8. Modelling - Splitting Data: https://youtu.be/1hPRf6lvmPg
+9. Modelling - Picking the Model: https://youtu.be/SYodZqXTha0
+10. Modelling - Tuning: https://youtu.be/YHpjjB8b-QY
+11. Modelling - Comparison: https://youtu.be/mq25UX5nod0
+12. –
+13. Experimentation: https://youtu.be/6w9XW_0YMwc
+14. Tools We Will Use: https://youtu.be/grSWG12HlQY
+15. –
+
+Урок 4 The Paths
+1. The 2 Paths: https://youtu.be/HfEfCPVJ2wA
+2. --
+3. --
+
+Урок 5 
+1. Section Overview: https://youtu.be/fVO8sOc0f5I
+2. Introducing Our Tools: https://youtu.be/T9qI85f4WYA
+3. What if Conda: https://youtu.be/DSaK2o-Pls0
+4. Conda Environments: https://youtu.be/-2lZ4I81gAc
+5. Mac Environments Setup: https://youtu.be/G1qD_wghXLQ (https://whimsical.com/getting-started-anaconda-miniconda-and-conda-BD751gt65nKjAD5i1CNEXU)
+6. Mac Environment Setup 2: https://youtu.be/6fq8GDPEq_k
+7. Windows Environment Setup: https://youtu.be/f0Vwd3MnI9s
+8. Windows Environment Setup 2: https://youtu.be/1xelvDRhXpw
+9. -- 
+10. –
+11. Jupiter Notebook Walkthrough: https://youtu.be/Pe9eLT8nkHc
+12. Jupiter Notebook Walkthrough 2: https://youtu.be/QwTLQzePX8c
+13. Jupiter Notebook Walkthrough 3: https://youtu.be/0MGHK2YZ-ec
+
+Урок 6 Pandas Data Analysis
+1. Section Overview: https://youtu.be/XqGkiQ2j_q8
+2. Repo: https://github.com/mrdbourke/zero-to-mastery-ml
+3. Pandas INroduction: https://youtu.be/nRSwtNrFawQ
+4. Series, Data Frames and CSV’s: https://youtu.be/sbpA8whERYE
+5. –
+6. Describing Data with Pandas: https://youtu.be/9Cadq4HfUk8
+7. Selecting and Viewing Data With Pandas part 1: https://youtu.be/FUkyWj_lznQ
+8. Selecting and Viewing Data with Pandas part 2: https://youtu.be/dV8RPPWWk58
+9. Manipulating Data: https://youtu.be/OHHcAx64Evc
+10. Manipulating Data 2: https://youtu.be/GDhfZUHaWW4
+11. Manipulating Data 3: https://youtu.be/gyz5mxQiZvc
+12. –
+13. How To Download The Course Assignments: https://youtu.be/k-elYWa0978
+Упражнения: https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/pandas-exercises.ipynb
+
+Урок 7 NumPy
+1. Section Overview: https://youtu.be/CHvhPfSV7To
+2. NumPy Introduction: https://youtu.be/9Uo3K3zyk8E (документация: https://numpy.org/doc/)
+3. –
+4. NumPy DataTypes and Attributes: https://youtu.be/bkjvN4UM1Yo
+5. Creating NumPy Arrays: https://youtu.be/0gs7oQj3RoA
+6. NumPy Random Seed: https://youtu.be/VqlrHxc6NDk
+7. Viewing Arrays and Matrices: https://youtu.be/vsMbt2zeHXQ
+8. Manipulating Arrays: https://youtu.be/stiylw2F_GE
+9. Manipulating Arrays 2: https://youtu.be/mbi2Wy5raro
+10. Standard Deviation and variance explained: https://youtu.be/o_qU9juD3F0
+11. Reshape and Transpose: https://youtu.be/lqKGEB2EabY
+12. Dot Product vs Element Wise: https://youtu.be/AHeYpFgQLKE
+13. Exercise Nut Butter Store Sales: https://youtu.be/tuJaDThBWoE
+14. Comparison Operators: https://youtu.be/Pir93cTWho4
+15. Sorting Arrays: https://youtu.be/AykFHE-vjE8
+16. Turn Images Into NumPy Arrays: https://youtu.be/ajj4tr0Htb4
+17. –
+18. –
+
+Урок 8 Matplotlib Plotting and Data Visualization Part 01 pyplot API
+1. Section Overview: https://youtu.be/nJirbmmf8xk (документация: https://matplotlib.org/3.1.1/contents.html)
+2. Matplotlib introduction: https://youtu.be/ZKFqV_M9pn0
+3. Importing And Using Matplotlib: https://youtu.be/6FxbGzrvtGg
+4. Anatomy Of A Matplotlib Figure: https://youtu.be/4CA2t9ibP0Y
+5. Scatter Plot And Bar Plot: https://youtu.be/lZy7rPN9LSE
+6. Histograms And Subplots: https://youtu.be/aFjg301HJ34
+7. Subplots and Option 2: https://youtu.be/QPQJjrhvFro
+8. Quick Tip Data Visualizations: https://youtu.be/bwCkbVRjXMw
+9. Plotting From DataFrames: https://youtu.be/nExH3x8x_Co
+10. –
+
+Урок 8 Matplotlib Plotting and Data Visualization Part 02 object-oriented API
+11. Plotting from Pandas DataFrames 2: https://youtu.be/YLjO7PAwBNA
+12. Plotting from Pandas DataFrames 3: https://youtu.be/moY-pakNQeI
+13. Plotting from Pandas DadaFrames 4: https://youtu.be/g6RBRo4y_1k
+14. Plotting from Pandas DataFrames 5: https://youtu.be/a7A6uiIbyWs
+15. Plotting from Pandas DataFrames 6: https://youtu.be/madAOHPL9yw
+
+Урок 8 Matplotlib Plotting and Data Visualization Part 03
+16. Plotting from Pandas DataFrames 7: https://youtu.be/32_dnqkQvCk
+17. Customizing Your Plots: https://youtu.be/JpbZr8DvMHo
+18. Customizing Your Plots 2: https://youtu.be/eBhOycbD5iU
+19. Saving And Sharing Your Plots: https://youtu.be/OAfmULEVQ6g
+20. –
+
+Урок 9 Scikit-learn Creating Machine Learning Models - Part 01
+1. Section Overview: https://youtu.be/sz0oEP_8IuA
+2. Scikit-learn Introduction: https://youtu.be/cf8uNMTi3jc
+3. –
+4. Refresher What if Machine Learning: https://youtu.be/1zOPTbRvSpg
+5. –
+6. Scikit-learn Cheatsheet: https://youtu.be/wqpF5ef01qs
+7. Typical scikit-learn Workflow: https://youtu.be/SFtXFmO4jeE (RandomForestClassifier: https://scikit-learn.org/1.4/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+8. Optional Debugging Warning In Jupyter: https://youtu.be/PDm4cLWVODo
+9. Getting Your Data Ready Splitting Your Data: https://youtu.be/DEJZwuNsX6E
+10. Quick Tip Clean, Transform, Reduce: https://youtu.be/cCd-LMy2sUM
+
+Урок 9 Scikit-learn Creating Machine Learning Models - Part 02
+11. Getting Your Data Ready Convert Data To Numbers: https://youtu.be/EkPzEyP7zWo
+12. Getting Your Data Ready Handling Missing Values With Pandas: https://youtu.be/E44lJ5qCMVM
+13. –
+14. Getting Your Data Ready Handling Missing Values With Scikit-learn: https://youtu.be/NBwbl5xaBuc
+15. Choosing The Right Model For Your Data: https://youtu.be/69lidQbu-jI
+16. Choosing The Right Model For Your Data 2 (Regression): https://youtu.be/qWSXl1-P2X4
+17. –
+18. Quick Tip How ML Algorithms Work: https://youtu.be/tiH7qjhFIcs
+
+Урок 9 Scikit-learn Creating Machine Learning Models - Part 03
+19. Choosing The Right Model For Your Data 3(Classification): https://youtu.be/MRwkIPqkhqE
+20. Fitting A Model To The Data: https://youtu.be/3yt3JZb5mIA
+21. Making Predictions with Our Model: https://youtu.be/DmmfdGxAwgc
+22. predict() vs predict_proba(): https://youtu.be/8Fs99QUQCrk
+23. Making Predictions With Our Model (Regression): https://youtu.be/Qiy7IBNLovA
+24. Evaluating A Machine Learning Model (Score): https://youtu.be/XJ3DcagtrCs
+25. Evaluating A Machine Learning Model 2 (Cross Validation): https://youtu.be/2HWZs0KbDW4
+26. Evaluating A Classification Model 1 (Accuracy): https://youtu.be/CxMFnWDWLJ4
+
+Урок 9 Scikit-learn Creating Machine Learning Models - Part 04
+27. Evaluating A Classification Model 2 (ROC Curve): https://youtu.be/mc5K-Zq2cf4
+28. Evaluating A Classification Model 3 (ROC Curve): https://youtu.be/xXsxuem1sP4
+29. Evaluating A Classification Model 4 (Confusion Matrix): https://youtu.be/hsd2J_wyRAQ
+30. Evaluating A Classification Model 5 (Confusion Matrix): https://youtu.be/VKtfUF3SB6k
+31. Evaluating A Classification Model 6 (Classification Report): https://youtu.be/QnPEHy_yKWg
+32. Evaluating A Regression Model 1 (R2 Score): https://youtu.be/D4mMTu2oZLM
+33. Evaluating A Regression Model 2 (MAE): https://youtu.be/mSpfgejlb6I
+34. Evaluating A Regression Model 3 (MAE): https://youtu.be/OOSqS0rGNIw
+35. –
+36. Evaluating A Model With Cross Validation and Scoring Parameter: https://youtu.be/rXg2mGN9wPk
+
+Урок 9 Scikit-learn Creating Machine Learning Models - Part 05
+37. Evaluating A Model With Scikit-learn Functions: https://youtu.be/lg1tOpABDT4
+38. Improving A Machine Learning Model: https://youtu.be/otm6zF_UtvM (RFC: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+39. Tuning Hyperparameters: https://youtu.be/yWwef20fVvU (лекция по гиперпараметрам RFC: https://youtu.be/PaIA4BC4hbs?si=Me9qLiF1RwQZADLT)
+40. Tuning Hyperparameters 2: https://youtu.be/F80OwJcWSdw
+
+Урок 9 Scikit-learn Creating Machine Learning Models - Part 06
+41. Tuning Hyperparameters 3: https://youtu.be/s4Kgt4t6WiI
+42. Quick Tip Correlation Analysis: https://youtu.be/Wh0mmXNWuQY
+43. Saving And Loading A Model: https://youtu.be/ZsTM178gXK8
+44. Saving And Loading A Model 2: https://youtu.be/x6SbWNy--CY
+45. Putting It Together: https://youtu.be/22-Np5E8lfk
+46. Putting It Together 2: https://youtu.be/C-62y5_9SOA
+47. –
+
+Урок 10 Supervised Learning Classification + Regression
+1. –
+
+Урок 11 Milestone Project 1 Supervised Learning - Part 01
+1. Section Overview: https://youtu.be/JkKsrSVmqO0
+2. Project Overview: https://youtu.be/yKkbD7TCu0w
+3. Project Environment Setup: https://youtu.be/oHJmVF8lWR8
+4. Step 1~4 Framework Setup: https://youtu.be/geGbudxHtvk
+5. Getting Our Tools Ready: https://youtu.be/0akm3Dg7eos
+6. Exploring Our Data: https://youtu.be/5XEuMYgxn_8
+7. Finding Patterns: https://youtu.be/S_ef8JbrDBs
+8. Finding Patterns 2: https://youtu.be/aLzYwJm-4gk
+9. Finding Patterns 3: https://youtu.be/pb6duqc5GLQ
+10. Preparing Our Data For machine Learning: https://youtu.be/cb5jVg1AWTU
+
+Урок 11 Milestone Project 1 Supervised Learning - Part 02
+11. Choosing The Right Models: https://youtu.be/9HdUuijHCqA
+12. Experimenting With Machine Learning Models: https://youtu.be/YJLHVyWbfNc
+13. Tuning Improving Our Model: https://youtu.be/wlhzLDATd-Q
+14. Tuning Hyperparameters: https://youtu.be/zQdhXXkkxJE
+15. Tuning Hyperparameters 2: https://youtu.be/nJZKDG2jmpU
+16. Tuning Hyperparameters 3: https://youtu.be/2oNUANpjglY
+
+Урок 11 Milestone Project 1 Supervised Learning - Part 03
+17. Evaluating Our Model: https://youtu.be/o_yVsqAvCYE
+18. Evaluating Our Model 2: https://youtu.be/KNxjd7xkOxQ
+19. Evaluating Our Model 3: https://youtu.be/IjnGqdHlfqs
+20. Finding The Most Important Features: https://youtu.be/fEzJ2gE9oRE
+21. Reviewing The Project: https://youtu.be/-_dsjUXUWkk
+
+Урок 12 Milestone Project 2 Supervised Learning - Part 01
+1. Section Overview: https://youtu.be/d3kRblA5yKQ
+2. Project Overview: https://youtu.be/S6liqnDjrDM
+3. Project Environment setup: https://youtu.be/2V20vIl7xoE
+4. Step 1~4 Framework Setup: https://youtu.be/hlBtgaRIIP0
+5. –
+6. Exploring Our Data: https://youtu.be/w_Tw1P_Nje8
+7. Exploring Our Data 2: https://youtu.be/18ITnTfaHqI
+8. Feature Engineering: https://youtu.be/417NxJFPytg
+9. Turning Data Into Numbers: https://youtu.be/2EJNaaqWs20
+
+Урок 12 Milestone Project 2 Supervised Learning - Part 02
+10. Filling Missing Numerical Values: https://youtu.be/EW9GWhEKsec
+11. Filling Missing Categorical Values: https://youtu.be/5LuC3fi_7XE
+12. Fitting A Machine Learning Model: https://youtu.be/MXcR8q1_YMM
+13. Splitting Data: https://youtu.be/sJm22BDtCwo
+14. –
+15. Custom Evaluation Function: https://youtu.be/r54riL8zyCs
+16. Reducing Data: https://youtu.be/cVzdTQnPUVk
+
+Урок 12 Milestone Project 2 Supervised Learning - Part 03
+17. RandomizedSearchCV: https://youtu.be/4iDbXI7QwRs
+18. Improving Hyperparameters: https://youtu.be/EZ0InRq_nWE
+19. Preprocessing Our Data: https://youtu.be/n_kNfCJopv8
+20. Making Predictions: https://youtu.be/UCX0__VC2_U
+21. Feature Importance: https://youtu.be/gHfVPzm2cEo
+
+Урок 13 Data Engineering
+1. Data Engineering Introduction: https://youtu.be/SsLO5ouh47w
+2. What is Data: https://youtu.be/4gGBk4mxuC4
+3. What Is A Data Engineer: https://youtu.be/-8NkbKAQEy0
+4. What Is A Data Engineer 2: https://youtu.be/8GnhHwqd5Io
+5. What Is A Data Engineer 3: https://youtu.be/-bjQj3mIZJY
+6. What Is A Data Engineer 4: https://youtu.be/tx1wlYPloWg
+7. Types Of Databases: https://youtu.be/mnMpnrfkvnM
+8. –
+9. Optional OLTP Databases: https://youtu.be/dXYZx01JMD8
+10. –
+11. Hadoop, HDFS and MapReduce: https://youtu.be/LLRKeEPBg6s
+12. Apache Spark and Apache Flink: https://youtu.be/hD3i9PtqKWw
+13. Kafka and Stream Processing: https://youtu.be/402zN2q3lJI
+
+Урок 14 Neural Networks Deep Learning. Transfer Learning and TensorFlow
+1. Section Overview: https://youtu.be/9Z0-wyug8s0
+2. Deep Learning and Unstructured Data: https://youtu.be/X8ioT8safvw
+3. –
+4. Setting Up Google Colab: https://youtu.be/jFhF4702zt8
+5. Google Colab Workspace: https://youtu.be/1cF5b_Y4Mvc
+6. Updating Project Data: https://youtu.be/P0-IC0WPBXg
+7. Setting Up Our Data: https://youtu.be/S2cnOP8EIQE
+8. Setting Up Our Data 2: https://youtu.be/HSPAcxeZJXo
+9. Importing TensorFlow 2: https://youtu.be/WXTxvzBX77A
+10. Optional TensorFlow 2.0: https://youtu.be/Dg7eVfEEioA
+11. Using A GPU: https://youtu.be/ti-NFCOJYcg
+12. Optional GPU and Google Colab: https://youtu.be/dWwnt0yoHFQ
+13. Optional Reloading Colab Notebook: https://youtu.be/imKkgzVEgeU
+14. Loading Our Data Labels: https://youtu.be/E1b4i1ck6sI
+15. Preparing The Images: https://youtu.be/WBMLecbYUWc
+16. Turning Data Labels Into Numbers: https://youtu.be/JVUyVoiDEjI
+17. Creating Our Own Vaidation Set: https://youtu.be/ZjEQZMQOsNY
+18. Preprocess Images: https://youtu.be/FVaJWH1gUVk
+19. Preprocess Images 2: https://youtu.be/lG2kLdXAfSE
+20. Turning Data Into Batches: https://youtu.be/GEczyxikD0o
+21. Turning Data Into Batches 2: https://youtu.be/unBTsd9Xgfo
+22. Visualizing Our Data: https://youtu.be/ST8I47cN9E0
+23. Preparing Our Inputs and Outputs: https://youtu.be/_iHfsZWFNMs
+24. –
+25. Building A Deep Learning Model: https://youtu.be/xUI9KPM2t4Y
+26. Building A Deep Learning Model 2: https://youtu.be/yCnRyQ_9ojE (Keras: https://www.tensorflow.org/guide/keras?hl=ru)
+27. Building A Deep Learning Model 3: https://youtu.be/nsy8NbXFyhE
+28. Building A Deep Learning Model 4: https://youtu.be/hHJkEzbDKkc
+29. Summarizing Our Model: https://youtu.be/4RMkXHkHeA8
+30. Evaluating Our Model: https://youtu.be/XrzfjzJHVVs
+31. Preventing Overfitting: https://youtu.be/HQlJRLM3kU4
+32. Training Your Deep Neural Network: https://youtu.be/K2LwK7NEUDU
+33. Evaluating Performance With TensorBoard: https://youtu.be/eUBtWLhwJ_g
+34. Make And Transform Predictions: https://youtu.be/PL0StumlZUs
+35. Transform Predictions To Text: https://youtu.be/hscPX0_Mo_A
+36. Visualizing Model Predictions: https://youtu.be/N54XYokuht8
+37. Visualizing And Evaluate Model Predictions 2: https://youtu.be/wPCJRpYqSX4
+38. Visualizing And Evaluate Model Predictions 3: https://youtu.be/wmxabdXM-ec
+39. Saving And Loading A Trained Model: https://youtu.be/N1LWEFa1M4E
+40. Training Model On Full Dataset: https://youtu.be/QhyswV-FMmQ
+41. Making Predictions On Test Images: https://youtu.be/kI67WGkoVDA
+42. Subplotting Model To Kaggle: https://youtu.be/mZIVXuIATCE
+43. Making Predictions On Our Images: https://youtu.be/sMmfw2deBIs
+44. –
+
+Урок 15 Storytelling + Communicate How To Present Your Work
+1. Section Overview: https://youtu.be/f54NGLT3cwE
+2. Communicating Your Work: https://youtu.be/2MGO1Y68RY4
+3. Communication With Managers: https://youtu.be/WooPRgSqY4o
+4. Communication With Co-Workers: https://youtu.be/Fv_3aIUBFsc
+5. Weekend Project Principle: https://youtu.be/mkmKO3mKG3U
+6. Communication With Outside World: https://youtu.be/l29HYWGfxFE
+7. Storytelling: https://youtu.be/T3ayaoPdT_A
+8. –
+
+Урок 16 Career Advice + Extra Bits
+1. –
+2. –
+3. What If I Dont have Enough Exerience: https://youtu.be/CjurMOK7l38
+4. –
+5. –
+6. JTS Learn To Learn: https://youtu.be/2g1-QVaRU70
+7. JTS Start With Why: https://youtu.be/aPF0GYDLJSU
+8. –
+9. CWD Git + Github: https://youtu.be/ysIGUAHHnf8
+10. CWD Git + Github 2: https://youtu.be/6W2pCid3p-k
+11. Contributing To Open Source: https://youtu.be/TX_9FuGYm68
+12. Contributing To Open Source 2: https://youtu.be/bKinM_zUyLQ
+13. –
+14. –
+
+Where To Go From Here
+1. –
+2. Thank You: https://youtu.be/0ulr_joO3j0
+
+Модели Scikit-learn:
+1. Linear Regression - Непрерывные, числовые. Пример: Предсказание заработной платы.
+2. Logistic Regression - Категориальные, бинарные. Пример: Будет ли клиент покупать продукт.
+3. KNeighborsClassifier - Многочисленные признаки (числовые и категориальные). Пример: Классификация видов растений.
+4. DecisionTreeClassifier - Разнородные данные. Пример: Примет ли клиент кредитное предложение.
+5. RandomForestClassifier - Разнородные данные. Пример: Классификация типов автомобилей.
+6. GradientBoostingClassifier - Разнородные данные. Пример: Предсказание оттока клиентов.
+7. SVC (RBF Kernel) - Числовые данные. Пример: Классификация видов растений.
+8. MLPClassifier - Разнородные данные. Пример: Распознавание рукописного текста.
+9. Naive Bayes (MultinomialNB) - Текстовые данные, частотные признаки. Пример: Классификация текстов по темам.
+10. Linear Regression - Числовые данные. Пример: Предсказание продаж по медиаканалам.
+11. SGDRegressor - Большие числовые данные. Пример: Предсказание потребления электроэнергии.
+12. Ridge и Lasso - Числовые данные. Пример: Предсказание цен на недвижимость с большим числом признаков.
+13. KNeighborsRegressor - Числовые данные. Пример: Предсказание арендной платы.
+14. DecisionTreeRegressor - Числовые и категориальные. Пример: Предсказание времени в пути.
+15. RandomForestRegressor - Числовые и категориальные. Пример: Предсказание урожайности.
+16. GradientBoostingRegressor - Числовые и категориальные. Пример: Стоимость медицинских услуг.
+17. SVR (RBF Kernel) - Числовые данные. Пример: Цены на автомобили.
+18. MLPRegressor - Числовые и категориальные. Пример: Потребительский спрос.
